@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+
+# Ignore build outputs
+/build/
+
+# Ignore system files
+.DS_Store
