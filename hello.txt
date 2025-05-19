@@ -1,1 +1,2 @@
 First message
+Adding a message after forking
